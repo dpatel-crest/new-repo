@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: new-repo
+  annotations:
+    github.com/project-slug: dpatel-crest/new-repo
+spec:
+  type: other
+  lifecycle: unknown
